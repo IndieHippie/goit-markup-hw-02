@@ -352,6 +352,7 @@ a {
 }
 
 .address {
+  font-style: normal; /* перекрити italic */
   font-size: 14px;
   line-height: 2;
   letter-spacing: 0.03em;
@@ -359,6 +360,7 @@ a {
 }
 
 .contact-mail-footer {
+  font-style: normal;
   font-size: 14px;
   line-height: 2;
   letter-spacing: 0.03em;
@@ -366,6 +368,7 @@ a {
 }
 
 .contact-tel-footer {
+  font-style: normal;
   font-size: 14px;
   line-height: 2;
   letter-spacing: 0.03em;
