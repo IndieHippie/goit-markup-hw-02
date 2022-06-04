@@ -1,3 +1,12 @@
+h1
+h2
+h3
+ul
+li {
+ margin: 0;
+ padding: 0;
+}
+
 a {
   text-decoration: none;
 }
@@ -203,20 +212,19 @@ a {
 }
 
 .team-list {
-  width: 1170px;
-  display: inline-block;
+  max-width: 1170px;
+  margin: 0 auto;
   list-style: none;
-  padding: 0;
-  padding-left: 215px;
-  padding-bottom: 95px;
-  padding-top: 50px;
-  padding-right: 215px;
+  text-align: center;
+  
 }
 
 .team-list-item {
   background-color: #fff;
   box-shadow: 5px 5px 5px #757575;
   display: inline-block;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 /* ??? 
 .team-list-item-card1 { 
