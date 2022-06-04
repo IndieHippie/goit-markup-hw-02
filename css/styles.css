@@ -33,6 +33,7 @@ a {
 .header {
   padding: 32px;
   background-color: #fff;
+  border: 1px solid #ECECEC;
 }
 
 .header-content {
@@ -235,10 +236,7 @@ a {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
-/* ??? 
-.team-list-item-card1 { 
- 
-} */
+
 
 .team-list-item-img {
   margin-bottom: 30px;
@@ -260,34 +258,30 @@ a {
 /* Portfolio */
 .main-portfolio {
   padding: 95px 215px;
+  text-align: center;
 }
 
 .features-portfolio-button {
   max-width: 610px;
-  /* padding-top: 95px;
-  padding-left: 495px;
-  padding-bottom: 50px; */
   margin: 0 auto;
+  
 }
 
 .features-portfolio-button-list {
   display: flex;
-  /* margin: 0 auto;
-  padding-left: 0; */
-  /* display: inline-block; */
   list-style: none;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 .button-portfolio {
+  margin: 4px;
   cursor: pointer;
   border: none;
   display: inline-block;
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
-  text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
   background: #f5f4fa;
@@ -318,7 +312,8 @@ a {
 /* Features Portfolio */
 
 .features-portfolio {
-  width: 1170px;
+  width: 1210px;
+  
 }
 
 .features-portfolio-list {
@@ -328,12 +323,18 @@ a {
 }
 
 .features-portfolio-list-item {
+  margin: 10px;
   display: inline-block;
   border: 1px solid #eeeeee;
   text-align: center;
 }
 
+.portfolio-list-item-img {
+  margin-bottom: 30px;
+}
+
 .portfolio-item-name {
+  margin-bottom: 10px;
   font-weight: 700;
   font-size: 18px;
   letter-spacing: 0.06em;
@@ -341,6 +342,7 @@ a {
 }
 
 .portfolio-item-about {
+  margin-bottom: 20px;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.03em;
