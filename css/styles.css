@@ -4,7 +4,7 @@ a {
 
 .body {
   color: #212121;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
 }
 /* Header */
 .header {
@@ -50,39 +50,23 @@ a {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.6;
   letter-spacing: 0.03em;
 }
 
 .main-logo,
 .header-list-item a,
 .contact-link-item {
-  line-height: 31px;
+  line-height: 1.5;
 }
 
-.header-list-studio {
-  font-family: "Roboto";
+.header-list-item {
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #212121;
-}
+} 
 
-.header-list-portfolio {
-  font-family: "Roboto";
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
-  color: #212121;
-}
-
-.header-list-contacts {
-  font-family: "Roboto";
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
-  color: #212121;
-}
 .header-list-item a:visited {
   color: #000000;
 }
@@ -124,7 +108,7 @@ a {
   font-family: "Roboto";
   font-size: 44px;
   font-weight: 900;
-  line-height: 136%;
+  line-height: 1.3;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -173,7 +157,7 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -183,7 +167,7 @@ a {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -203,8 +187,7 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
-
+  
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -228,7 +211,6 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -260,7 +242,7 @@ a {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -270,7 +252,6 @@ a {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 19px;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
@@ -303,7 +284,6 @@ a {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -342,7 +322,6 @@ a {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 200%;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -371,7 +350,6 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
   letter-spacing: 0.06em;
   color: #212121;
 }
@@ -381,7 +359,6 @@ a {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -396,7 +373,6 @@ a {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
   letter-spacing: 0.03em;
   color: #fff;
 }
@@ -410,7 +386,7 @@ a {
   font-family: "Roboto";
   font-style: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 2;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -419,7 +395,7 @@ a {
   font-family: "Roboto";
   font-style: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 2;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
@@ -428,7 +404,7 @@ a {
   font-family: "Roboto";
   font-style: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 2;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
