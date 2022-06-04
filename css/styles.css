@@ -1,6 +1,11 @@
 a {
   text-decoration: none;
 }
+
+.body {
+  color: #212121;
+  font-family: "Roboto";
+}
 /* Header */
 .header {
   padding: 32px;
@@ -119,6 +124,7 @@ a {
   font-family: "Roboto";
   font-size: 44px;
   font-weight: 900;
+  line-height: 136%;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -134,7 +140,7 @@ a {
 .main-top-button-name {
   font-family: "Roboto";
   font-size: 16px;
-  line-height: 30px;
+  line-height: 188%;
   letter-spacing: 0.06em;
 }
 
@@ -336,7 +342,7 @@ a {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 200%;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
