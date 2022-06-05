@@ -29,34 +29,27 @@ a {
 
 /* Header */
 .header {
-  
   background-color: #fff;
-  border: 1px solid #ECECEC;
+  border: 1px solid #ececec;
 }
 
 .header-content {
   max-width: 1170px;
-  
 }
 
 .header-nav {
-  
 }
 
 .header-list {
-  
 }
 
 .header-list-item {
-  
 }
 
 .header-contacts {
-  
 }
 
 .contact-link {
- 
 }
 
 .main-logo-blue {
@@ -65,7 +58,6 @@ a {
 }
 
 .main-logo {
-  
   color: #000000;
   font-family: "Raleway";
   font-weight: 700;
@@ -97,7 +89,6 @@ a {
 }
 
 .contact-link {
-  
 }
 
 .contact-link-item:hover,
@@ -106,7 +97,6 @@ a {
 }
 
 .contact-link-item {
-  
   font-size: 14px;
   letter-spacing: 0.02em;
   color: #757575;
@@ -114,9 +104,7 @@ a {
 
 /* Эффективные решения вашего бизнеса */
 .main-top {
-
   background-color: #2f303a;
-
 }
 
 .main-title {
@@ -145,10 +133,8 @@ a {
 /* Main */
 /* Features */
 .main {
-
 }
 .features {
-  
 }
 
 .features-title {
@@ -157,11 +143,9 @@ a {
 .features-list {
   /* display: flex; */
   list-style: none;
- 
 }
 
 .features-list-item {
-  
   width: 24%;
 }
 .features-name {
@@ -182,15 +166,11 @@ a {
 /* Services Чем мы занимаемся */
 
 .services {
-  
 }
 
 .services-list {
   text-align: center;
   list-style: none;
-  padding-left: 0;
-  margin: 0 auto;
-  /* display: flex; */
 }
 .services-list-item {
   list-style-type: none;
@@ -198,7 +178,6 @@ a {
 
 .team {
   background: #f5f4fa;
-  
 }
 .team-title {
   font-weight: 700;
@@ -208,7 +187,6 @@ a {
 }
 
 .team-list {
-
   list-style: none;
   text-align: center;
 }
@@ -224,13 +202,10 @@ a {
   text-align: center;
 }
 
-
 .team-list-item-img {
- 
 }
 
 .teammate-name {
- 
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.03em;
@@ -244,22 +219,18 @@ a {
 
 /* Portfolio */
 .main-portfolio {
-  
   text-align: center;
 }
 
 .features-portfolio-button {
- 
-  
 }
 
 .features-portfolio-button-list {
-list-style-type: none;
+  list-style-type: none;
   text-align: center;
 }
 
 .button-portfolio {
-  
   cursor: pointer;
   border: none;
   display: inline-block;
@@ -296,8 +267,6 @@ list-style-type: none;
 /* Features Portfolio */
 
 .features-portfolio {
- 
-  
 }
 
 .features-portfolio-list {
@@ -305,17 +274,14 @@ list-style-type: none;
 }
 
 .features-portfolio-list-item {
-  
   border: 1px solid #eeeeee;
   text-align: center;
 }
 
 .portfolio-list-item-img {
-
 }
 
 .portfolio-item-name {
- 
   font-weight: 700;
   font-size: 18px;
   letter-spacing: 0.06em;
@@ -323,7 +289,6 @@ list-style-type: none;
 }
 
 .portfolio-item-about {
- 
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.03em;
@@ -332,7 +297,6 @@ list-style-type: none;
 /* Footer */
 
 .footer {
- 
   background: #2f303a;
 }
 
@@ -346,7 +310,6 @@ list-style-type: none;
 
 .footer-list {
   list-style-type: none;
-  
 }
 
 .address {
