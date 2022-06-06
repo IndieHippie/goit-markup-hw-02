@@ -22,14 +22,14 @@ a {
 }
 
 .body {
-  color: #212121;
-  background-color: #ffffff;
-  font-family: "Roboto";
+  color: var(--color);
+  background-color: var(--background-color);
+  font-family: var(--font-family-text);
   font-size: 14px;
   letter-spacing: 0.03;
 }
 .section-title {
-  /* text-align: center; */
+  text-align: center;
   font-family: var(--font-family-text);
   color: var(--color);
 
@@ -259,11 +259,11 @@ a {
   color: var(--color);
   background-color: var(--background-color);
   max-width: 270px;
-  background-color: #fff;
+  background-color: var(--background-color);
   padding-bottom: 30px;
   box-shadow: va(--color-gray);
   display: inline-block;
-  margin: 0 15px 30px;
+  /* margin: 0 15px 30px; */
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   text-align: center;
